@@ -1,0 +1,7 @@
+C:\Users\sveto\source\repos\OwnProject\OwnProject\bin\Debug\OwnProject.exe.config
+C:\Users\sveto\source\repos\OwnProject\OwnProject\bin\Debug\OwnProject.exe
+C:\Users\sveto\source\repos\OwnProject\OwnProject\bin\Debug\OwnProject.pdb
+C:\Users\sveto\source\repos\OwnProject\OwnProject\obj\Debug\OwnProject.csprojAssemblyReference.cache
+C:\Users\sveto\source\repos\OwnProject\OwnProject\obj\Debug\OwnProject.csproj.CoreCompileInputs.cache
+C:\Users\sveto\source\repos\OwnProject\OwnProject\obj\Debug\OwnProject.exe
+C:\Users\sveto\source\repos\OwnProject\OwnProject\obj\Debug\OwnProject.pdb
